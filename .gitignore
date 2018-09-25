@@ -1,3 +1,4 @@
 .mvn
 target
 logs
+pom.xml.versionsBackup
