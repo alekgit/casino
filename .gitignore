@@ -1,4 +1,4 @@
-.mvn
+.mvn/wrapper/maven-wrapper.jar
 target
 logs
 pom.xml.versionsBackup
